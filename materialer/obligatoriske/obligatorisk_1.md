@@ -8,15 +8,3 @@ Opgaven laves online, og der er ingen undervisning på skolen.
 Opgaven kan laves hjemmefra.    
 Opgaven er individuel, men i må gerne hjælpe hinanden.
 
-<!--
-
-**Type**: individuel (i må dog gerne hjælpe hinanden)
-
-**Hvad skal afleveres**: På Itslearning et link til et GitHub  til dette link til et github repository
-**Hvor skal det afleveres**:  
-
-Start med at se følgnede videoer:
-
-* []()
-
--->
