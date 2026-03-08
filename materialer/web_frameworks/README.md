@@ -6,6 +6,7 @@
 * Kunne oprette et API skrevet i `FastAPI`.    
 * Forstå og bruge python´s type hints
 * Forstå forskellen på `sync` og `async` funktioner
+* Kunne oprette et og køre projekt med `uv`
 
 ## Forberedelse
 
