@@ -7,14 +7,13 @@
 * Forstå og bruge pythons type hints
 * Forstå forskellen på `sync` og `async` funktioner
 * Kunne oprette et og køre projekt med `uv`
-* Kunne arbejde med `sqlite3` igennem python scripts
+
 ## Forberedelse
 
 Skim følgende sider igennem
 
 * [Flask Quickstart](https://flask.palletsprojects.com/en/stable/quickstart/#a-minimal-application)
 * [Fast API - Learn](https://fastapi.tiangolo.com/learn/)
-* [sqlite3 tutorial](https://docs.python.org/3/library/sqlite3.html#tutorial)
 
 ## Dagen i dag
 
@@ -28,5 +27,5 @@ Vi kigger på 2 forskellige frameworks: først `Flask` og herefter `FastAPI`, og
 Disse tutorials er ca. hvad der er blevet gennemgået ved tavlen. Brug dem som en "opfrisker". 
 
 * [Flask basic setup with venv](exercises/flask_basic_setup_venv.md)
-* [fastapi basic setup with `pip`](exercises/fastapi_basic_setup_venv.md)
-* [fastapi basic setup with `uv`](exercises/fastapi_basic_setup.md)
+* [Fastapi basic setup with `pip`](exercises/fastapi_basic_setup_venv.md)
+* [Fastapi basic setup with `uv`](exercises/fastapi_basic_setup.md)
