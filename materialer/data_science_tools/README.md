@@ -12,6 +12,8 @@ Matplotlib bibliotekets formål er at generere visuelle grafer og diagrammer, of
 * Kunne bruge biblioteket Matplotlib
 
 ## Forberedels
+Der er ingen forberedelse til i dag
+<!--
 _(forberedelse til i dag er på omkring 3 timer)_    
 
 Se først denne korte introduktion til hvad modulerne **Numpy** og **Pandas** er og hvad de bruges til:
@@ -33,7 +35,7 @@ Til sidst skal du se denne video om Matplotlib:
 * [Matplotlib Tutorial: For Physicists, Engineers, and Mathematicians](https://www.youtube.com/watch?v=cTJBJH8hacc&list=PLkdGijFCNuVnGxo-1fSNcdHh5gZc17oRM) (47:59)
 
 OBS: Han starter  med at beskrive et modul der skal installeres (SciencePlots). Det er ikke nødvendigt, så bare undlad dette. 
-
+-->
 
 <!--
 * [Intro to Data Visualization in Python with Matplotlib! (line graph, bar chart, title, labels, size)](https://www.youtube.com/watch?v=DAQNHzOcO5A) (32:32)
