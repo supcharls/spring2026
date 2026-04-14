@@ -12,6 +12,10 @@ Ingen forberedelse til idag.
 Vi starter med et overblik over Pandas biblioteket og dets metoder og muligheder.     
 Herefter kigger vi på hvordan vi kan implementere det i Streamlit.    
 
+* [Demokode fra klassen](demo.ipynb)
+* [Demo Dataset](assets/worldcities.csv)
+* [Øvelses Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+
 ## Materiale
 * [Pandas](https://www.w3schools.com/python/pandas/default.asp)
 * [Matplotlib dokumentation](https://matplotlib.org/stable/)
